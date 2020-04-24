@@ -1005,3 +1005,10 @@ Processing by StaticController#about as HTML
 Completed 200 OK in 14ms (Views: 13.3ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 67.189.18.13 at 2020-04-24 10:25:12 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (0.3ms)
+Completed 200 OK in 2ms (Views: 1.7ms | ActiveRecord: 0.0ms)
+
+
